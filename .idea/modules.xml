@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StrageImagesApp.iml" filepath="$PROJECT_DIR$/.idea/modules/StrageImagesApp.iml" group="StrageImagesApp" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="StrageImagesApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StrageImagesApp.iml" filepath="$PROJECT_DIR$/.idea/modules/StrageImagesApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StrageImagesApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>

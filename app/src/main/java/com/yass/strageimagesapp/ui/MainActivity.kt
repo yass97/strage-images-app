@@ -2,7 +2,7 @@ package com.yass.strageimagesapp.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.yass.strageimagesapp.R
+import com.example.strageimagesapp.R
 
 class MainActivity : AppCompatActivity() {
 

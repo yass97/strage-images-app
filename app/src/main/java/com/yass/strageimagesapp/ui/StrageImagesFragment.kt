@@ -9,7 +9,7 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
-import com.yass.strageimagesapp.databinding.FragmentStrageImagesBinding
+import com.example.strageimagesapp.databinding.FragmentStrageImagesBinding
 import com.yass.strageimagesapp.view_model.StrageImagesViewModel
 import org.koin.android.ext.android.inject
 

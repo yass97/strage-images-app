@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.DisplayMetrics
 import android.view.WindowManager
 import android.widget.ImageView
-import com.yass.strageimagesapp.R
+import com.example.strageimagesapp.R
 
 fun ImageView.adjustThumbnailSize() {
 
